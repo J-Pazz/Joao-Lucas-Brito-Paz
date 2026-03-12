@@ -1,26 +1,27 @@
 
 
-Sobre mim.
+João | Java Back-End Developer
 
-Sou desenvolvedor em formação, apaixonado por tecnologia e focado em evoluir constantemente na área de desenvolvimento de software. 
-Tenho dedicado meus estudos à construção de projetos práticos utilizando tecnologias modernas do ecossistema web.
-_____________________________________________________________________________________________________________________________________________
-🔥 Dev Front-end;
+Olá! Seja bem-vindo ao meu perfil no GitHub.
+Sou desenvolvedor Back-End focado em Java, interessado em desenvolvimento de sistemas, APIs e soluções escaláveis.
 
-🎯 Focado em freelancer;
+Atualmente estou estudando e desenvolvendo projetos com foco em:
 
-💼 Voltado para mercado de trabalho;
+☕ Java
 
-🧠 Estudante de Sistemas de Informação;
+🗄️ Banco de Dados
 
-_____________________________________________________________________________________________________________________________________________
+⚙️ APIs REST
 
-Tecnologias que uso;
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60"/>
+🧠 Estrutura de Dados
 
-</p>
+🔧 Git e GitHub
+
+Meu objetivo é evoluir constantemente como desenvolvedor e construir sistemas eficientes e bem estruturados.
+
+🚀 Tecnologias
+<p align="left"> <img src="https://skillicons.dev/icons?i=java" height="40"/> <img src="https://skillicons.dev/icons?i=spring" height="40"/> <img src="https://skillicons.dev/icons?i=mysql" height="40"/> <img src="https://skillicons.dev/icons?i=git" height="40"/> <img src="https://skillicons.dev/icons?i=github" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" height="40"/> <img src="https://skillicons.dev/icons?i=idea" height="40"/> </p>
+📊 Estatísticas GitHub
+
+🌐 Conecte-se comigo
+<p align="left"> <a href="https://instagram.com/SEUUSUARIO" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="40"/> </a> <a href="https://linkedin.com/in/SEUUSUARIO" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> </p>
