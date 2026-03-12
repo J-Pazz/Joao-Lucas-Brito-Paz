@@ -24,4 +24,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor e construir sistemas e
 📊 Estatísticas GitHub
 
 🌐 Conecte-se comigo
-<p align="left"> <a href="https://instagram.com/SEUUSUARIO" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="40"/> </a> <a href="https://linkedin.com/in/SEUUSUARIO" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> </p>
+<p align="left"> <a href="https://instagram.com/SEUUSUARIO" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="40"/> </a> <a href="www.linkedin.com/in/
+joaolucas-brito-pazz
+Nome fantasia da URL
+" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> </p>
