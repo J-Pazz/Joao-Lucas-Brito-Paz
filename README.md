@@ -1,4 +1,4 @@
-# João Lucas Pazz
+# João Lucas Brito Paz
 
 **Java Back-End Developer**
 Desenvolvedor Back-End em formação, com foco em Java e desenvolvimento de APIs REST. Busco criar aplicações organizadas, escaláveis e seguindo boas práticas de desenvolvimento.
