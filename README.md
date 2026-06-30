@@ -1,30 +1,34 @@
+# João Lucas Pazz
 
+**Java Back-End Developer**
+Desenvolvedor Back-End em formação, com foco em Java e desenvolvimento de APIs REST. Busco criar aplicações organizadas, escaláveis e seguindo boas práticas de desenvolvimento.
+## Tecnologias
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=idea" height="40"/>
+</p>
+## GitHub Stats
+<!-- Cole aqui o código das suas estatísticas do GitHub -->
+<!-- Exemplo: https://github.com/anuraghazra/github-readme-stats -->
 
-João | Java Back-End Developer
+## Contato
+<p align="left">
+  <a href="www.linkedin.com/in/joaolucas-brito-pazz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
 
-Olá! Seja bem-vindo ao meu perfil no GitHub.
-Sou desenvolvedor Back-End focado em Java, interessado em desenvolvimento de sistemas, APIs e soluções escaláveis.
-
-Atualmente estou estudando e desenvolvendo projetos com foco em:
-
-☕ Java
-
-🗄️ Banco de Dados
-
-⚙️ APIs REST
-
-🧠 Estrutura de Dados
-
-🔧 Git e GitHub
-
-Meu objetivo é evoluir constantemente como desenvolvedor e construir sistemas eficientes e bem estruturados.
-
-🚀 Tecnologias
-<p align="left"> <img src="https://skillicons.dev/icons?i=java" height="40"/> <img src="https://skillicons.dev/icons?i=spring" height="40"/> <img src="https://skillicons.dev/icons?i=mysql" height="40"/> <img src="https://skillicons.dev/icons?i=git" height="40"/> <img src="https://skillicons.dev/icons?i=github" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" height="40"/> <img src="https://skillicons.dev/icons?i=idea" height="40"/> </p>
-📊 Estatísticas GitHub
-
-🌐 Conecte-se comigo
-<p align="left"> <a href="https://instagram.com/SEUUSUARIO" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="40"/> </a> <a href="www.linkedin.com/in/
-joaolucas-brito-pazz
-Nome fantasia da URL
-" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> </p>
+  <a href="https://www.instagram.com/joaolpaz__/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="COLE_AQUI_O_LINK_DO_SEU_DISCORD" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
+  </a>
+  <a href="COLE_AQUI_O_LINK_DO_SEU_EMAIL_OU_PORTFOLIO" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
