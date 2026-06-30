@@ -6,7 +6,7 @@ Desenvolvedor Back-End em formação, com foco em Java e desenvolvimento de APIs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40"/>
   <img src="https://skillicons.dev/icons?i=spring" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
@@ -18,7 +18,7 @@ Desenvolvedor Back-End em formação, com foco em Java e desenvolvimento de APIs
 
 ## Contato
 <p align="left">
-  <a href="www.linkedin.com/in/joaolucas-brito-pazz" target="_blank">
+  <a href="www.linkedin.com/in/joaolucas-brito-pazz"target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
